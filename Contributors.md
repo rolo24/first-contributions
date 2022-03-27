@@ -100,6 +100,7 @@
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
 - [Vim]
+- [PolygonCrow]
 - [Monisha Jegadesan](github.com/monisha-jega)
 - [David SY] (https://github.com/DavidSyrup)
 - [Akshat Sharma](github.com/akshatcoder-hash)
